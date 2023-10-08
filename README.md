@@ -3,7 +3,7 @@
  ## Hello, I am Vikram <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=Rackr7642" alt="Rackr7642" />
 
 - 🔭 Atualmente estudando Desenvolvimento Full Cycle.
-- 🌱 Trabalhando com REACTJS, NODEJS, Typescript, GRAPHQL, Styled Components, SASS, HTML, CSS.
+- 🌱 Trabalhando com Typescript, Styled Components, SASS, HTML, CSS.
 
 ##
 ### 🚀 Stack:
