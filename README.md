@@ -36,12 +36,11 @@
  ### 📞 Contact:
 
 <div style="display: inline_block"><br> 
+ 
   <a href="https://micode-dev.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=appveyor&logoColor=00FFFF&link=https://www.designviki.in"/></a> 
   <a href="https://www.linkedin.com/in/vikram-vikram" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/micheldslive"/></a> 
   <a href = "mailto:rackr7642@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=EA4335" target="_blank"></a>
-
-
 
 </div>
