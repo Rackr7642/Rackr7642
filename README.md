@@ -8,13 +8,10 @@
 ##
 ### 🚀 Stack:
 
-![C](https://img.shields.io/badge/C-black.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-black.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Javascript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-black.svg?style=for-the-badge&logo=bootstrap&logoColor=865dc4)
-![Git](https://img.shields.io/badge/git-black.svg?style=for-the-badge&logo=git&logoColor=F05033)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-black.svg?style=for-the-badge&logo=ui&logoColor=white)
 ![Technical Content Writing](https://img.shields.io/badge/Technical%20Content%20Writing-black.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Blogging](https://img.shields.io/badge/Blogging-black.svg?style=for-the-badge&logo=wordpress&logoColor=white)
