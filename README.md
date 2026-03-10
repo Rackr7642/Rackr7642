@@ -2,8 +2,9 @@
 
  ## Hello, I am Vikram <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://komarev.com/ghpvc/?username=Rackr7642" alt="Rackr7642" />
 
-- 🔭 Atualmente estudando Desenvolvimento Full Cycle.
-- 🌱 Trabalhando com Typescript, Styled Components, SASS, HTML, CSS.
+- I’m a product designer driven by curiosity, empathy, and creativity. I enjoy exploring new products and technologies, understanding user needs, and translating complex systems into clean, intuitive experiences.
+
+- I blend user empathy with technical know‑how to transform complex challenges into elegant, human centered designs. From data‑driven dashboards to immersive mobile journeys, my work sparks clarity, drives engagement, and delivers measurable impact.
 
 ##
 ### 🚀 Stack:
